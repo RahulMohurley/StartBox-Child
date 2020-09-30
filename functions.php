@@ -1,4 +1,4 @@
-<php(StartBox-Child project)
+<php
 
 // Initialize Startbox (custom theme options will break without this)
 require_once( get_template_directory() . '/includes/functions/startbox.php' );
